@@ -1,0 +1,38 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+env/
+
+# ML artifacts
+*.h5
+*.hdf5
+*.pkl
+*.npy
+*.npz
+saved_model/
+
+# Data / assets
+*.zip
+*.csv
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
